@@ -1,7 +1,7 @@
 <h1 align="center"> Habits! </h1>
 
 <p align="center">
-NLWé um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits! é um app para ajudar a rastrear os hábitos do seu dia a dia.
 
-- [Visite o projeto online!](https://1fellype.github.io/NLW-Setup/)
+- [Visite o projeto online!](https://nlwsetup-habit.vercel.app/)
 
 ## 🔖 Layout
 
